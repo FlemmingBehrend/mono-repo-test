@@ -1,5 +1,11 @@
 # pkg-a
 
+## 1.0.0
+
+### Major Changes
+
+- 2718d7d: first
+
 ## 0.0.2
 
 ### Patch Changes
