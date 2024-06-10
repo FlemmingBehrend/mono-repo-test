@@ -5,6 +5,7 @@
   "main": "dist/index.js",
   "scripts": {
     "dev": "echo 'Add dev script here'",
+    "ci:publish": "pnpm publish -r",
     "build": "tsup src/index.ts --minify --dts --format cjs,esm --out-dir dist",
     "test": "jest",
     "lint": "echo 'Add lint script here'"
