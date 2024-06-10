@@ -9,6 +9,7 @@
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "publish-packages": "turbo run build lint test && changeset version && changeset publish",
     "changeset-init": "changeset init",
+    "changeset": "changeset",
     "changeset-version": "changeset version",
     "changeset-publish": "changeset publish"
   },
