@@ -6,12 +6,17 @@
   "scripts": {
     "dev": "echo 'Add dev script here'",
     "build": "tsup src/index.ts --minify --dts --format cjs,esm --out-dir dist",
-    "test": "echo 'Add test script here'",
+    "test": "jest",
     "lint": "echo 'Add lint script here'"
   },
   "dependencies": {
     "@repo/eslint-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
+    "@types/jest": "^29.5.12",
+    "@types/node": "^20.14.2",
+    "jest": "^29.7.0",
+    "ts-jest": "^29.1.4",
+    "ts-node": "^10.9.2",
     "tsup": "^8.1.0",
     "typescript": "^5.3.3"
   },
