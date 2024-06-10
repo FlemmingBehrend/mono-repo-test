@@ -5,11 +5,16 @@
     "build": "turbo build",
     "dev": "turbo dev",
     "lint": "turbo lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "publish-packages": "turbo run build lint test && changeset version && changeset publish",
+    "changeset-init": "changeset init",
+    "changeset-version": "changeset version",
+    "changeset-publish": "changeset publish"
   },
   "devDependencies": {
     "@repo/eslint-config": "workspace:*",
     "@repo/typescript-config": "workspace:*",
+    "@changesets/cli": "^2.27.5",
     "prettier": "^3.2.5",
     "turbo": "latest"
   },
