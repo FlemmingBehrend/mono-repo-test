@@ -1,5 +1,11 @@
 # pkg-a
 
+## 7.0.0
+
+### Major Changes
+
+- 9a38c6f: test1
+
 ## 6.0.0
 
 ### Major Changes
