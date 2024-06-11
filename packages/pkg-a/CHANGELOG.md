@@ -1,5 +1,11 @@
 # pkg-a
 
+## 8.0.1
+
+### Patch Changes
+
+- 696c8c4: patching
+
 ## 8.0.0
 
 ### Major Changes
