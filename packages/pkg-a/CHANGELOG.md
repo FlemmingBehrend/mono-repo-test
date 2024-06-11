@@ -1,5 +1,15 @@
 # pkg-a
 
+## 2.0.0
+
+### Major Changes
+
+- c107f7b: test next version
+
+### Patch Changes
+
+- d0cc405: bumb version for test
+
 ## 1.0.0
 
 ### Major Changes
