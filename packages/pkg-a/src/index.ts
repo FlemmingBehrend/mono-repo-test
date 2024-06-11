@@ -1,5 +1,5 @@
 function helloFromPkgA() {
-  return 'Hello from pkg-a package 14';
+  return 'Hello from pkg-a package 15';
 }
 
 export { helloFromPkgA }
