@@ -1,5 +1,11 @@
 # pkg-a
 
+## 6.0.0
+
+### Major Changes
+
+- 2935060: tttt
+
 ## 5.0.1
 
 ### Patch Changes
