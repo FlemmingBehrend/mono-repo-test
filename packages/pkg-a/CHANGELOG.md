@@ -1,5 +1,11 @@
 # pkg-a
 
+## 5.0.1
+
+### Patch Changes
+
+- 2949dc3: new version
+
 ## 5.0.0
 
 ### Major Changes
