@@ -1,5 +1,11 @@
 # pkg-b
 
+## 2.0.0
+
+### Major Changes
+
+- f8878cb: test2
+
 ## 1.0.0
 
 ### Major Changes

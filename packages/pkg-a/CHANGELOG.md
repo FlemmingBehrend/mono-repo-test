@@ -1,5 +1,11 @@
 # pkg-a
 
+## 8.0.0
+
+### Major Changes
+
+- f8878cb: test2
+
 ## 7.0.0
 
 ### Major Changes
