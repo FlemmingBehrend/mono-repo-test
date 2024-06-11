@@ -23,9 +23,6 @@ jobs:
       - name: install pnpm
         run: corepack enable pnpm
 
-      - name: Setup npmrc
-        run: echo "//registry.npmjs.org/:_authToken=${{ secrets.NPM_AUTOMATION_TOKEN }}" > .npmrc
-
       - name: install dependencies
         run: pnpm install
         
@@ -38,3 +35,4 @@ jobs:
           publish: pnpm changeset:publish
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          NPM_TOKEN: ${{ secrets.NPM_AUTOMATION_TOKEN }}
