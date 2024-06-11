@@ -1,5 +1,11 @@
 # pkg-a
 
+## 5.0.0
+
+### Major Changes
+
+- 3b903dd: version 4
+
 ## 4.0.0
 
 ### Major Changes
