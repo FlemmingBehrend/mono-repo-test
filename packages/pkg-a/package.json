@@ -1,5 +1,5 @@
 {
-  "name": "pkg-a",
+  "name": "@flemmingbehrend/pkg-a",
   "version": "7.0.0",
   "private": false,
   "main": "./dist/index.js",
