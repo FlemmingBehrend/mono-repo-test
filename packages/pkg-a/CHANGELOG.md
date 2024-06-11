@@ -1,5 +1,11 @@
 # pkg-a
 
+## 3.0.0
+
+### Major Changes
+
+- 1638fec: new version
+
 ## 2.0.0
 
 ### Major Changes
