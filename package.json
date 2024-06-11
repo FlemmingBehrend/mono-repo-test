@@ -11,7 +11,7 @@
     "changeset:init": "changeset init",
     "changeset:run": "changeset",
     "changeset:version": "changeset version",
-    "changeset:publish": "changeset publish --force-publish"
+    "changeset:publish": "pnpm -r publish"
   },
   "devDependencies": {
     "@repo/eslint-config": "workspace:*",
