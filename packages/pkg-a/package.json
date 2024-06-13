@@ -1,6 +1,6 @@
 {
   "name": "@flemmingbehrend/pkg-a",
-  "version": "8.1.0",
+  "version": "0.0.0",
   "private": false,
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
