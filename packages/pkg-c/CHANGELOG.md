@@ -1,5 +1,11 @@
 # pkg-b
 
+## 0.0.1
+
+### Patch Changes
+
+- b6cc15c: test
+
 ## 2.0.0
 
 ### Major Changes
