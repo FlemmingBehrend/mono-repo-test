@@ -1,5 +1,11 @@
 # pkg-a
 
+## 2.1.0
+
+### Minor Changes
+
+- 9fba179: test
+
 ## 0.1.0
 
 ### Minor Changes
