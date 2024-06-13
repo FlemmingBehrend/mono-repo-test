@@ -1,5 +1,11 @@
 # pkg-a
 
+## 8.1.0
+
+### Minor Changes
+
+- e856ba6: next release
+
 ## 8.0.1
 
 ### Patch Changes
